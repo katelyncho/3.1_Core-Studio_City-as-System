@@ -399,6 +399,11 @@
     "./dogs/Labrador_retriever__n02099712_7775.jpg",
     "./dogs/Labrador_retriever__n02099712_2228.jpg"
   ],
+  "Labrador retriever Crossbreed": [
+    "./dogs/Labrador_retriever__n02099712_1200.jpg",
+    "./dogs/Labrador_retriever__n02099712_7775.jpg",
+    "./dogs/Labrador_retriever__n02099712_2228.jpg"
+  ],
   "collie": [
     "./dogs/collie__n02106030_16188.jpg",
     "./dogs/collie__n02106030_16338.jpg",
@@ -614,5 +619,25 @@
     "./dogs/Havanese1.png",
     "./dogs/Havanese2.png",
     "./dogs/Havanese3.png"
+  ],
+  "Maltese": [
+    "./dogs/Maltese1.png",
+    "./dogs/Maltese2.png",
+    "./dogs/Maltese3.png"
+  ],
+  "American Pit Bull": [
+    "./dogs/AmericanPitBull1.png",
+    "./dogs/AmericanPitBull2.png",
+    "./dogs/AmericanPitBull3.png"
+  ],
+  "American Pit Bull Mix": [
+    "./dogs/AmericanPitBull1.png",
+    "./dogs/AmericanPitBull2.png",
+    "./dogs/AmericanPitBull3.png"
+  ],
+  "Pit Bull Mix": [
+    "./dogs/AmericanPitBull1.png",
+    "./dogs/AmericanPitBull2.png",
+    "./dogs/AmericanPitBull3.png"
   ]
 }
