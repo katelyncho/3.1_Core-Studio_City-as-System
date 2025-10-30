@@ -36,7 +36,7 @@ var simplemaps_cityzipmap_mapdata = {
 
     //Label defaults
     label_color: "rgb(100, 50, 50)",
-    label_hover_color: "#b50000ff",
+    label_hover_color: "#b50000",
     label_size: 22,
     label_font: "Freckle Face",
     label_display: "auto",
