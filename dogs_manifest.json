@@ -562,7 +562,10 @@
   "French bulldog": [
     "./dogs/French_bulldog__n02108915_6462.jpg",
     "./dogs/French_bulldog__n02108915_11653.jpg",
-    "./dogs/French_bulldog__n02108915_2380.jpg"
+    "./dogs/French_bulldog__n02108915_2380.jpg",
+    "./dogs/Frenchbulldog1.jpg",
+    "./dogs/Frenchbulldog2.jpg",
+    "./dogs/Frenchbulldog3.png"
   ],
   "Irish water spaniel": [
     "./dogs/Irish_water_spaniel__n02102973_3220.jpg",
@@ -606,5 +609,10 @@
     "./dogs/Shih-Tzu__n02086240_30.jpg",
     "./dogs/Shih-Tzu__n02086240_1366.jpg",
     "./dogs/Shih-Tzu__n02086240_7207.jpg"
+  ],
+  "Havanese": [
+    "./dogs/Havanese1.png",
+    "./dogs/Havanese2.png",
+    "./dogs/Havanese3.png"
   ]
 }
