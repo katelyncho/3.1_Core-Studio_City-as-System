@@ -1,0 +1,610 @@
+{
+  "silky terrier": [
+    "./dogs/silky_terrier__n02097658_4402.jpg",
+    "./dogs/silky_terrier__n02097658_7785.jpg",
+    "./dogs/silky_terrier__n02097658_2022.jpg"
+  ],
+  "Scottish deerhound": [
+    "./dogs/Scottish_deerhound__n02092002_5746.jpg",
+    "./dogs/Scottish_deerhound__n02092002_4218.jpg",
+    "./dogs/Scottish_deerhound__n02092002_4545.jpg"
+  ],
+  "Chesapeake Bay retriever": [
+    "./dogs/Chesapeake_Bay_retriever__n02099849_3812.jpg",
+    "./dogs/Chesapeake_Bay_retriever__n02099849_1837.jpg",
+    "./dogs/Chesapeake_Bay_retriever__n02099849_1823.jpg"
+  ],
+  "Ibizan hound": [
+    "./dogs/Ibizan_hound__n02091244_5637.jpg",
+    "./dogs/Ibizan_hound__n02091244_2542.jpg",
+    "./dogs/Ibizan_hound__n02091244_4107.jpg"
+  ],
+  "wire-haired fox terrier": [
+    "./dogs/wire-haired_fox_terrier__n02095314_3395.jpg",
+    "./dogs/wire-haired_fox_terrier__n02095314_3189.jpg",
+    "./dogs/wire-haired_fox_terrier__n02095314_2139.jpg"
+  ],
+  "Saluki": [
+    "./dogs/Saluki__n02091831_1110.jpg",
+    "./dogs/Saluki__n02091831_213.jpg",
+    "./dogs/Saluki__n02091831_4755.jpg"
+  ],
+  "cocker spaniel": [
+    "./dogs/cocker_spaniel__n02102318_11615.jpg",
+    "./dogs/cocker_spaniel__n02102318_10087.jpg",
+    "./dogs/cocker_spaniel__n02102318_5855.jpg"
+  ],
+  "schipperke": [
+    "./dogs/schipperke__n02104365_6291.jpg",
+    "./dogs/schipperke__n02104365_7546.jpg",
+    "./dogs/schipperke__n02104365_7018.jpg"
+  ],
+  "borzoi": [
+    "./dogs/borzoi__n02090622_10492.jpg",
+    "./dogs/borzoi__n02090622_6166.jpg",
+    "./dogs/borzoi__n02090622_9374.jpg"
+  ],
+  "Pembroke": [
+    "./dogs/Pembroke__n02113023_1816.jpg",
+    "./dogs/Pembroke__n02113023_5985.jpg",
+    "./dogs/Pembroke__n02113023_5739.jpg"
+  ],
+  "komondor": [
+    "./dogs/komondor__n02105505_3650.jpg",
+    "./dogs/komondor__n02105505_1148.jpg",
+    "./dogs/komondor__n02105505_3356.jpg"
+  ],
+  "Staffordshire bullterrier": [
+    "./dogs/Staffordshire_bullterrier__n02093256_6821.jpg",
+    "./dogs/Staffordshire_bullterrier__n02093256_3353.jpg",
+    "./dogs/Staffordshire_bullterrier__n02093256_7577.jpg"
+  ],
+  "standard poodle": [
+    "./dogs/standard_poodle__n02113799_2321.jpg",
+    "./dogs/standard_poodle__n02113799_2814.jpg",
+    "./dogs/standard_poodle__n02113799_1962.jpg"
+  ],
+  "Eskimo dog": [
+    "./dogs/Eskimo_dog__n02109961_20002.jpg",
+    "./dogs/Eskimo_dog__n02109961_5066.jpg",
+    "./dogs/Eskimo_dog__n02109961_8187.jpg"
+  ],
+  "English foxhound": [
+    "./dogs/English_foxhound__n02089973_1.jpg",
+    "./dogs/English_foxhound__n02089973_2068.jpg",
+    "./dogs/English_foxhound__n02089973_1890.jpg"
+  ],
+  "golden retriever": [
+    "./dogs/golden_retriever__n02099601_2796.jpg",
+    "./dogs/golden_retriever__n02099601_100.jpg",
+    "./dogs/golden_retriever__n02099601_473.jpg"
+  ],
+  "Sealyham terrier": [
+    "./dogs/Sealyham_terrier__n02095889_2851.jpg",
+    "./dogs/Sealyham_terrier__n02095889_2883.jpg",
+    "./dogs/Sealyham_terrier__n02095889_4964.jpg"
+  ],
+  "Japanese spaniel": [
+    "./dogs/Japanese_spaniel__n02085782_698.jpg",
+    "./dogs/Japanese_spaniel__n02085782_80.jpg",
+    "./dogs/Japanese_spaniel__n02085782_1782.jpg"
+  ],
+  "miniature schnauzer": [
+    "./dogs/miniature_schnauzer__n02097047_1917.jpg",
+    "./dogs/miniature_schnauzer__n02097047_151.jpg",
+    "./dogs/miniature_schnauzer__n02097047_6936.jpg"
+  ],
+  "malamute": [
+    "./dogs/malamute__n02110063_5828.jpg",
+    "./dogs/malamute__n02110063_6276.jpg",
+    "./dogs/malamute__n02110063_18538.jpg"
+  ],
+  "malinois": [
+    "./dogs/malinois__n02105162_2158.jpg",
+    "./dogs/malinois__n02105162_10640.jpg",
+    "./dogs/malinois__n02105162_5759.jpg"
+  ],
+  "Pekinese": [
+    "./dogs/Pekinese__n02086079_14360.jpg",
+    "./dogs/Pekinese__n02086079_499.jpg",
+    "./dogs/Pekinese__n02086079_15871.jpg"
+  ],
+  "giant schnauzer": [
+    "./dogs/giant_schnauzer__n02097130_864.jpg",
+    "./dogs/giant_schnauzer__n02097130_262.jpg",
+    "./dogs/giant_schnauzer__n02097130_63.jpg"
+  ],
+  "Mexican hairless": [
+    "./dogs/Mexican_hairless__n02113978_2793.jpg",
+    "./dogs/Mexican_hairless__n02113978_1924.jpg",
+    "./dogs/Mexican_hairless__n02113978_3670.jpg"
+  ],
+  "Doberman": [
+    "./dogs/Doberman__n02107142_7205.jpg",
+    "./dogs/Doberman__n02107142_14425.jpg",
+    "./dogs/Doberman__n02107142_15003.jpg"
+  ],
+  "standard schnauzer": [
+    "./dogs/standard_schnauzer__n02097209_3815.jpg",
+    "./dogs/standard_schnauzer__n02097209_1363.jpg",
+    "./dogs/standard_schnauzer__n02097209_4024.jpg"
+  ],
+  "dhole": [
+    "./dogs/dhole__n02115913_3878.jpg",
+    "./dogs/dhole__n02115913_3601.jpg",
+    "./dogs/dhole__n02115913_3529.jpg"
+  ],
+  "German shepherd": [
+    "./dogs/German_shepherd__n02106662_22456.jpg",
+    "./dogs/German_shepherd__n02106662_18922.jpg",
+    "./dogs/German_shepherd__n02106662_5169.jpg"
+  ],
+  "Bouvier des Flandres": [
+    "./dogs/Bouvier_des_Flandres__n02106382_2536.jpg",
+    "./dogs/Bouvier_des_Flandres__n02106382_2740.jpg",
+    "./dogs/Bouvier_des_Flandres__n02106382_1048.jpg"
+  ],
+  "Siberian husky": [
+    "./dogs/Siberian_husky__n02110185_3406.jpg",
+    "./dogs/Siberian_husky__n02110185_8600.jpg",
+    "./dogs/Siberian_husky__n02110185_8708.jpg"
+  ],
+  "Norwich terrier": [
+    "./dogs/Norwich_terrier__n02094258_1407.jpg",
+    "./dogs/Norwich_terrier__n02094258_871.jpg",
+    "./dogs/Norwich_terrier__n02094258_1091.jpg"
+  ],
+  "Irish terrier": [
+    "./dogs/Irish_terrier__n02093991_4282.jpg",
+    "./dogs/Irish_terrier__n02093991_467.jpg",
+    "./dogs/Irish_terrier__n02093991_1321.jpg"
+  ],
+  "Norfolk terrier": [
+    "./dogs/Norfolk_terrier__n02094114_1076.jpg",
+    "./dogs/Norfolk_terrier__n02094114_563.jpg",
+    "./dogs/Norfolk_terrier__n02094114_4506.jpg"
+  ],
+  "Saint Bernard": [
+    "./dogs/Saint_Bernard__n02109525_2248.jpg",
+    "./dogs/Saint_Bernard__n02109525_1880.jpg",
+    "./dogs/Saint_Bernard__n02109525_8704.jpg"
+  ],
+  "Border terrier": [
+    "./dogs/Border_terrier__n02093754_5891.jpg",
+    "./dogs/Border_terrier__n02093754_5975.jpg",
+    "./dogs/Border_terrier__n02093754_6817.jpg"
+  ],
+  "briard": [
+    "./dogs/briard__n02105251_7348.jpg",
+    "./dogs/briard__n02105251_7750.jpg",
+    "./dogs/briard__n02105251_8857.jpg"
+  ],
+  "Tibetan mastiff": [
+    "./dogs/Tibetan_mastiff__n02108551_854.jpg",
+    "./dogs/Tibetan_mastiff__n02108551_1774.jpg",
+    "./dogs/Tibetan_mastiff__n02108551_1794.jpg"
+  ],
+  "bull mastiff": [
+    "./dogs/bull_mastiff__n02108422_5234.jpg",
+    "./dogs/bull_mastiff__n02108422_3184.jpg",
+    "./dogs/bull_mastiff__n02108422_251.jpg"
+  ],
+  "Maltese dog": [
+    "./dogs/Maltese_dog__n02085936_2203.jpg",
+    "./dogs/Maltese_dog__n02085936_18640.jpg",
+    "./dogs/Maltese_dog__n02085936_7172.jpg"
+  ],
+  "Kerry blue terrier": [
+    "./dogs/Kerry_blue_terrier__n02093859_184.jpg",
+    "./dogs/Kerry_blue_terrier__n02093859_798.jpg",
+    "./dogs/Kerry_blue_terrier__n02093859_3098.jpg"
+  ],
+  "kuvasz": [
+    "./dogs/kuvasz__n02104029_4079.jpg",
+    "./dogs/kuvasz__n02104029_1816.jpg",
+    "./dogs/kuvasz__n02104029_157.jpg"
+  ],
+  "Greater Swiss Mountain dog": [
+    "./dogs/Greater_Swiss_Mountain_dog__n02107574_2191.jpg",
+    "./dogs/Greater_Swiss_Mountain_dog__n02107574_1028.jpg",
+    "./dogs/Greater_Swiss_Mountain_dog__n02107574_1920.jpg"
+  ],
+  "Lakeland terrier": [
+    "./dogs/Lakeland_terrier__n02095570_3323.jpg",
+    "./dogs/Lakeland_terrier__n02095570_2748.jpg",
+    "./dogs/Lakeland_terrier__n02095570_477.jpg"
+  ],
+  "Blenheim spaniel": [
+    "./dogs/Blenheim_spaniel__n02086646_3893.jpg",
+    "./dogs/Blenheim_spaniel__n02086646_3856.jpg",
+    "./dogs/Blenheim_spaniel__n02086646_3629.jpg"
+  ],
+  "basset": [
+    "./dogs/basset__n02088238_11505.jpg",
+    "./dogs/basset__n02088238_11522.jpg",
+    "./dogs/basset__n02088238_10142.jpg"
+  ],
+  "West Highland white terrier": [
+    "./dogs/West_Highland_white_terrier__n02098286_5106.jpg",
+    "./dogs/West_Highland_white_terrier__n02098286_4106.jpg",
+    "./dogs/West_Highland_white_terrier__n02098286_1910.jpg"
+  ],
+  "Chihuahua": [
+    "./dogs/Chihuahua__n02085620_3838.jpg",
+    "./dogs/Chihuahua__n02085620_3409.jpg",
+    "./dogs/Chihuahua__n02085620_2590.jpg"
+  ],
+  "Border collie": [
+    "./dogs/Border_collie__n02106166_4733.jpg",
+    "./dogs/Border_collie__n02106166_6437.jpg",
+    "./dogs/Border_collie__n02106166_1990.jpg"
+  ],
+  "redbone": [
+    "./dogs/redbone__n02090379_4278.jpg",
+    "./dogs/redbone__n02090379_1448.jpg",
+    "./dogs/redbone__n02090379_4632.jpg"
+  ],
+  "Irish wolfhound": [
+    "./dogs/Irish_wolfhound__n02090721_6232.jpg",
+    "./dogs/Irish_wolfhound__n02090721_464.jpg",
+    "./dogs/Irish_wolfhound__n02090721_2702.jpg"
+  ],
+  "bluetick": [
+    "./dogs/bluetick__n02088632_512.jpg",
+    "./dogs/bluetick__n02088632_2239.jpg",
+    "./dogs/bluetick__n02088632_2709.jpg"
+  ],
+  "miniature poodle": [
+    "./dogs/miniature_poodle__n02113712_352.jpg",
+    "./dogs/miniature_poodle__n02113712_3157.jpg",
+    "./dogs/miniature_poodle__n02113712_8487.jpg"
+  ],
+  "Cardigan": [
+    "./dogs/Cardigan__n02113186_11741.jpg",
+    "./dogs/Cardigan__n02113186_11334.jpg",
+    "./dogs/Cardigan__n02113186_9208.jpg"
+  ],
+  "EntleBucher": [
+    "./dogs/EntleBucher__n02108000_748.jpg",
+    "./dogs/EntleBucher__n02108000_933.jpg",
+    "./dogs/EntleBucher__n02108000_2429.jpg"
+  ],
+  "Norwegian elkhound": [
+    "./dogs/Norwegian_elkhound__n02091467_3285.jpg",
+    "./dogs/Norwegian_elkhound__n02091467_1760.jpg",
+    "./dogs/Norwegian_elkhound__n02091467_4472.jpg"
+  ],
+  "German short-haired pointer": [
+    "./dogs/German_short-haired_pointer__n02100236_2893.jpg",
+    "./dogs/German_short-haired_pointer__n02100236_4783.jpg",
+    "./dogs/German_short-haired_pointer__n02100236_5317.jpg"
+  ],
+  "Bernese mountain dog": [
+    "./dogs/Bernese_mountain_dog__n02107683_333.jpg",
+    "./dogs/Bernese_mountain_dog__n02107683_2727.jpg",
+    "./dogs/Bernese_mountain_dog__n02107683_4782.jpg"
+  ],
+  "papillon": [
+    "./dogs/papillon__n02086910_8047.jpg",
+    "./dogs/papillon__n02086910_1199.jpg",
+    "./dogs/papillon__n02086910_3991.jpg"
+  ],
+  "Tibetan terrier": [
+    "./dogs/Tibetan_terrier__n02097474_5208.jpg",
+    "./dogs/Tibetan_terrier__n02097474_7572.jpg",
+    "./dogs/Tibetan_terrier__n02097474_3177.jpg"
+  ],
+  "Gordon setter": [
+    "./dogs/Gordon_setter__n02101006_4223.jpg",
+    "./dogs/Gordon_setter__n02101006_2445.jpg",
+    "./dogs/Gordon_setter__n02101006_4065.jpg"
+  ],
+  "American Staffordshire terrier": [
+    "./dogs/American_Staffordshire_terrier__n02093428_16682.jpg",
+    "./dogs/American_Staffordshire_terrier__n02093428_632.jpg",
+    "./dogs/American_Staffordshire_terrier__n02093428_10896.jpg"
+  ],
+  "vizsla": [
+    "./dogs/vizsla__n02100583_854.jpg",
+    "./dogs/vizsla__n02100583_11888.jpg",
+    "./dogs/vizsla__n02100583_12413.jpg"
+  ],
+  "kelpie": [
+    "./dogs/kelpie__n02105412_2496.jpg",
+    "./dogs/kelpie__n02105412_1925.jpg",
+    "./dogs/kelpie__n02105412_2183.jpg"
+  ],
+  "Weimaraner": [
+    "./dogs/Weimaraner__n02092339_5329.jpg",
+    "./dogs/Weimaraner__n02092339_5978.jpg",
+    "./dogs/Weimaraner__n02092339_6548.jpg"
+  ],
+  "miniature pinscher": [
+    "./dogs/miniature_pinscher__n02107312_854.jpg",
+    "./dogs/miniature_pinscher__n02107312_5055.jpg",
+    "./dogs/miniature_pinscher__n02107312_4741.jpg"
+  ],
+  "boxer": [
+    "./dogs/boxer__n02108089_12739.jpg",
+    "./dogs/boxer__n02108089_2718.jpg",
+    "./dogs/boxer__n02108089_7259.jpg"
+  ],
+  "chow": [
+    "./dogs/chow__n02112137_10134.jpg",
+    "./dogs/chow__n02112137_8769.jpg",
+    "./dogs/chow__n02112137_9866.jpg"
+  ],
+  "Old English sheepdog": [
+    "./dogs/Old_English_sheepdog__n02105641_11628.jpg",
+    "./dogs/Old_English_sheepdog__n02105641_764.jpg",
+    "./dogs/Old_English_sheepdog__n02105641_1815.jpg"
+  ],
+  "pug": [
+    "./dogs/pug__n02110958_11261.jpg",
+    "./dogs/pug__n02110958_13993.jpg",
+    "./dogs/pug__n02110958_14927.jpg"
+  ],
+  "Rhodesian ridgeback": [
+    "./dogs/Rhodesian_ridgeback__n02087394_7495.jpg",
+    "./dogs/Rhodesian_ridgeback__n02087394_5552.jpg",
+    "./dogs/Rhodesian_ridgeback__n02087394_9313.jpg"
+  ],
+  "Scotch terrier": [
+    "./dogs/Scotch_terrier__n02097298_4565.jpg",
+    "./dogs/Scotch_terrier__n02097298_9085.jpg",
+    "./dogs/Scotch_terrier__n02097298_2583.jpg"
+  ],
+  "Shih-Tzu": [
+    "./dogs/Shih-Tzu__n02086240_7207.jpg",
+    "./dogs/Shih-Tzu__n02086240_30.jpg",
+    "./dogs/Shih-Tzu__n02086240_1366.jpg"
+  ],
+  "affenpinscher": [
+    "./dogs/affenpinscher__n02110627_7013.jpg",
+    "./dogs/affenpinscher__n02110627_11798.jpg",
+    "./dogs/affenpinscher__n02110627_12893.jpg"
+  ],
+  "whippet": [
+    "./dogs/whippet__n02091134_17467.jpg",
+    "./dogs/whippet__n02091134_1131.jpg",
+    "./dogs/whippet__n02091134_13334.jpg"
+  ],
+  "Sussex spaniel": [
+    "./dogs/Sussex_spaniel__n02102480_576.jpg",
+    "./dogs/Sussex_spaniel__n02102480_7472.jpg",
+    "./dogs/Sussex_spaniel__n02102480_7417.jpg"
+  ],
+  "otterhound": [
+    "./dogs/otterhound__n02091635_2183.jpg",
+    "./dogs/otterhound__n02091635_452.jpg",
+    "./dogs/otterhound__n02091635_1147.jpg"
+  ],
+  "flat-coated retriever": [
+    "./dogs/flat-coated_retriever__n02099267_931.jpg",
+    "./dogs/flat-coated_retriever__n02099267_1909.jpg",
+    "./dogs/flat-coated_retriever__n02099267_838.jpg"
+  ],
+  "English setter": [
+    "./dogs/English_setter__n02100735_5353.jpg",
+    "./dogs/English_setter__n02100735_8515.jpg",
+    "./dogs/English_setter__n02100735_1534.jpg"
+  ],
+  "Italian greyhound": [
+    "./dogs/Italian_greyhound__n02091032_2180.jpg",
+    "./dogs/Italian_greyhound__n02091032_5.jpg",
+    "./dogs/Italian_greyhound__n02091032_4458.jpg"
+  ],
+  "Labrador retriever": [
+    "./dogs/Labrador_retriever__n02099712_1200.jpg",
+    "./dogs/Labrador_retriever__n02099712_7775.jpg",
+    "./dogs/Labrador_retriever__n02099712_2228.jpg"
+  ],
+  "collie": [
+    "./dogs/collie__n02106030_16188.jpg",
+    "./dogs/collie__n02106030_16338.jpg",
+    "./dogs/collie__n02106030_7863.jpg"
+  ],
+  "cairn": [
+    "./dogs/cairn__n02096177_9630.jpg",
+    "./dogs/cairn__n02096177_2006.jpg",
+    "./dogs/cairn__n02096177_4587.jpg"
+  ],
+  "Rottweiler": [
+    "./dogs/Rottweiler__n02106550_9084.jpg",
+    "./dogs/Rottweiler__n02106550_3313.jpg",
+    "./dogs/Rottweiler__n02106550_5133.jpg"
+  ],
+  "Australian terrier": [
+    "./dogs/Australian_terrier__n02096294_671.jpg",
+    "./dogs/Australian_terrier__n02096294_2343.jpg",
+    "./dogs/Australian_terrier__n02096294_2215.jpg"
+  ],
+  "toy terrier": [
+    "./dogs/toy_terrier__n02087046_5843.jpg",
+    "./dogs/toy_terrier__n02087046_8471.jpg",
+    "./dogs/toy_terrier__n02087046_5860.jpg"
+  ],
+  "Shetland sheepdog": [
+    "./dogs/Shetland_sheepdog__n02105855_1816.jpg",
+    "./dogs/Shetland_sheepdog__n02105855_2853.jpg",
+    "./dogs/Shetland_sheepdog__n02105855_15911.jpg"
+  ],
+  "African hunting dog": [
+    "./dogs/African_hunting_dog__n02116738_10081.jpg",
+    "./dogs/African_hunting_dog__n02116738_431.jpg",
+    "./dogs/African_hunting_dog__n02116738_662.jpg"
+  ],
+  "Newfoundland": [
+    "./dogs/Newfoundland__n02111277_2405.jpg",
+    "./dogs/Newfoundland__n02111277_5649.jpg",
+    "./dogs/Newfoundland__n02111277_1023.jpg"
+  ],
+  "Walker hound": [
+    "./dogs/Walker_hound__n02089867_2061.jpg",
+    "./dogs/Walker_hound__n02089867_2387.jpg",
+    "./dogs/Walker_hound__n02089867_1295.jpg"
+  ],
+  "Lhasa": [
+    "./dogs/Lhasa__n02098413_14191.jpg",
+    "./dogs/Lhasa__n02098413_16076.jpg",
+    "./dogs/Lhasa__n02098413_1137.jpg"
+  ],
+  "beagle": [
+    "./dogs/beagle__n02088364_8871.jpg",
+    "./dogs/beagle__n02088364_2661.jpg",
+    "./dogs/beagle__n02088364_7927.jpg"
+  ],
+  "Samoyed": [
+    "./dogs/Samoyed__n02111889_108.jpg",
+    "./dogs/Samoyed__n02111889_91.jpg",
+    "./dogs/Samoyed__n02111889_6622.jpg"
+  ],
+  "Great Dane": [
+    "./dogs/Great_Dane__n02109047_27409.jpg",
+    "./dogs/Great_Dane__n02109047_282.jpg",
+    "./dogs/Great_Dane__n02109047_5326.jpg"
+  ],
+  "Airedale": [
+    "./dogs/Airedale__n02096051_2774.jpg",
+    "./dogs/Airedale__n02096051_3443.jpg",
+    "./dogs/Airedale__n02096051_5048.jpg"
+  ],
+  "bloodhound": [
+    "./dogs/bloodhound__n02088466_7091.jpg",
+    "./dogs/bloodhound__n02088466_10331.jpg",
+    "./dogs/bloodhound__n02088466_4731.jpg"
+  ],
+  "Irish setter": [
+    "./dogs/Irish_setter__n02100877_788.jpg",
+    "./dogs/Irish_setter__n02100877_2971.jpg",
+    "./dogs/Irish_setter__n02100877_5033.jpg"
+  ],
+  "keeshond": [
+    "./dogs/keeshond__n02112350_7566.jpg",
+    "./dogs/keeshond__n02112350_8713.jpg",
+    "./dogs/keeshond__n02112350_4590.jpg"
+  ],
+  "Dandie Dinmont": [
+    "./dogs/Dandie_Dinmont__n02096437_1790.jpg",
+    "./dogs/Dandie_Dinmont__n02096437_2055.jpg",
+    "./dogs/Dandie_Dinmont__n02096437_1521.jpg"
+  ],
+  "basenji": [
+    "./dogs/basenji__n02110806_582.jpg",
+    "./dogs/basenji__n02110806_979.jpg",
+    "./dogs/basenji__n02110806_3981.jpg"
+  ],
+  "Bedlington terrier": [
+    "./dogs/Bedlington_terrier__n02093647_2747.jpg",
+    "./dogs/Bedlington_terrier__n02093647_316.jpg",
+    "./dogs/Bedlington_terrier__n02093647_1630.jpg"
+  ],
+  "Appenzeller": [
+    "./dogs/Appenzeller__n02107908_3311.jpg",
+    "./dogs/Appenzeller__n02107908_6366.jpg",
+    "./dogs/Appenzeller__n02107908_4301.jpg"
+  ],
+  "clumber": [
+    "./dogs/clumber__n02101556_7521.jpg",
+    "./dogs/clumber__n02101556_3204.jpg",
+    "./dogs/clumber__n02101556_6054.jpg"
+  ],
+  "toy poodle": [
+    "./dogs/toy_poodle__n02113624_2270.jpg",
+    "./dogs/toy_poodle__n02113624_8880.jpg",
+    "./dogs/toy_poodle__n02113624_7448.jpg"
+  ],
+  "Great Pyrenees": [
+    "./dogs/Great_Pyrenees__n02111500_6387.jpg",
+    "./dogs/Great_Pyrenees__n02111500_5750.jpg",
+    "./dogs/Great_Pyrenees__n02111500_32.jpg"
+  ],
+  "English springer": [
+    "./dogs/English_springer__n02102040_690.jpg",
+    "./dogs/English_springer__n02102040_1178.jpg",
+    "./dogs/English_springer__n02102040_629.jpg"
+  ],
+  "Afghan hound": [
+    "./dogs/Afghan_hound__n02088094_13742.jpg",
+    "./dogs/Afghan_hound__n02088094_9197.jpg",
+    "./dogs/Afghan_hound__n02088094_7229.jpg"
+  ],
+  "Brittany spaniel": [
+    "./dogs/Brittany_spaniel__n02101388_4628.jpg",
+    "./dogs/Brittany_spaniel__n02101388_10348.jpg",
+    "./dogs/Brittany_spaniel__n02101388_2529.jpg"
+  ],
+  "Welsh springer spaniel": [
+    "./dogs/Welsh_springer_spaniel__n02102177_2737.jpg",
+    "./dogs/Welsh_springer_spaniel__n02102177_1567.jpg",
+    "./dogs/Welsh_springer_spaniel__n02102177_922.jpg"
+  ],
+  "Boston bull": [
+    "./dogs/Boston_bull__n02096585_3105.jpg",
+    "./dogs/Boston_bull__n02096585_12716.jpg",
+    "./dogs/Boston_bull__n02096585_1856.jpg"
+  ],
+  "dingo": [
+    "./dogs/dingo__n02115641_9686.jpg",
+    "./dogs/dingo__n02115641_6309.jpg",
+    "./dogs/dingo__n02115641_12544.jpg"
+  ],
+  "soft-coated wheaten terrier": [
+    "./dogs/soft-coated_wheaten_terrier__n02098105_403.jpg",
+    "./dogs/soft-coated_wheaten_terrier__n02098105_2474.jpg",
+    "./dogs/soft-coated_wheaten_terrier__n02098105_3731.jpg"
+  ],
+  "curly-coated retriever": [
+    "./dogs/curly-coated_retriever__n02099429_1372.jpg",
+    "./dogs/curly-coated_retriever__n02099429_3026.jpg",
+    "./dogs/curly-coated_retriever__n02099429_363.jpg"
+  ],
+  "French bulldog": [
+    "./dogs/French_bulldog__n02108915_6462.jpg",
+    "./dogs/French_bulldog__n02108915_11653.jpg",
+    "./dogs/French_bulldog__n02108915_2380.jpg"
+  ],
+  "Irish water spaniel": [
+    "./dogs/Irish_water_spaniel__n02102973_3220.jpg",
+    "./dogs/Irish_water_spaniel__n02102973_4169.jpg",
+    "./dogs/Irish_water_spaniel__n02102973_513.jpg"
+  ],
+  "Pomeranian": [
+    "./dogs/Pomeranian__n02112018_1577.jpg",
+    "./dogs/Pomeranian__n02112018_5317.jpg",
+    "./dogs/Pomeranian__n02112018_5367.jpg"
+  ],
+  "Brabancon griffon": [
+    "./dogs/Brabancon_griffon__n02112706_1087.jpg",
+    "./dogs/Brabancon_griffon__n02112706_237.jpg",
+    "./dogs/Brabancon_griffon__n02112706_86.jpg"
+  ],
+  "Yorkshire terrier": [
+    "./dogs/Yorkshire_terrier__n02094433_7394.jpg",
+    "./dogs/Yorkshire_terrier__n02094433_1177.jpg",
+    "./dogs/Yorkshire_terrier__n02094433_1324.jpg"
+  ],
+  "groenendael": [
+    "./dogs/groenendael__n02105056_1294.jpg",
+    "./dogs/groenendael__n02105056_6759.jpg",
+    "./dogs/groenendael__n02105056_5668.jpg"
+  ],
+  "Leonberg": [
+    "./dogs/Leonberg__n02111129_819.jpg",
+    "./dogs/Leonberg__n02111129_4801.jpg",
+    "./dogs/Leonberg__n02111129_294.jpg"
+  ],
+  "black-and-tan coonhound": [
+    "./dogs/black-and-tan_coonhound__n02089078_183.jpg",
+    "./dogs/black-and-tan_coonhound__n02089078_1245.jpg",
+    "./dogs/black-and-tan_coonhound__n02089078_2110.jpg"
+  ],
+  "Shih Tzu": [
+    "./dogs/Shih Tzu1.png",
+    "./dogs/Shih Tzu2.png",
+    "./dogs/Shih Tzu3.png",
+    "./dogs/Shih-Tzu__n02086240_30.jpg",
+    "./dogs/Shih-Tzu__n02086240_1366.jpg",
+    "./dogs/Shih-Tzu__n02086240_7207.jpg"
+  ]
+}

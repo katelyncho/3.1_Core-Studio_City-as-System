@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Comic+Relief:wght@400;700&family=Doto:wght@100..900&family=Foldit:wght@100..900&family=Freckle+Face&family=Gamja+Flower&family=Handjet:wght@100..900&family=Love+Ya+Like+A+Sister&family=Major+Mono+Display&family=Moo+Lah+Lah&family=Rubik+Pixels&family=Schoolbell&family=Story+Script&family=Wallpoet&display=swap");
+
+body {
+  background-color: rgb(248, 247, 242);
+  margin: 10px;
+  padding: 10px;
+  position: center;
+  align-items: center;
+  align-content: center;
+  text-align: center;
+}
+
+#map {
+  font-family: Gamja Flower;
+  color: rgb(120, 90, 68);
+}
+
+h1 {
+  font-family: "Moo Lah Lah";
+  font-size: 50px;
+  color: rgb(100, 50, 50);
+}
+
+h3 {
+  font-family: "Love Ya Like A Sister";
+  font-size: 30px;
+  color: rgb(100, 50, 50);
+}
+
+#info {
+  margin: 10px 0px 0px 0px;
+  padding: 10px;
+  border-radius: 5px;
+  font-family: Schoolbell;
+  font-size: 20px;
+  color: rgb(120, 90, 68);
+}
