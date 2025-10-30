@@ -639,5 +639,10 @@
     "./dogs/AmericanPitBull1.png",
     "./dogs/AmericanPitBull2.png",
     "./dogs/AmericanPitBull3.png"
+  ],
+  "Poodle Crossbreed": [
+    "./dogs/standard_poodle__n02113799_2321.jpg",
+    "./dogs/standard_poodle__n02113799_2814.jpg",
+    "./dogs/standard_poodle__n02113799_1962.jpg"
   ]
 }
